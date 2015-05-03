@@ -152,10 +152,10 @@
           //acos(x / radius) = angle;
           var ballAngle = Math.atan2(pos.y, pos.x);
 
+          var radius = 2.5 + audio.analyser.array[ i ] / 256;
 
-
-          balls[i].position.setX(2.5 * Math.cos(ballAngle - 0.01));
-          balls[i].position.setY(2.5 * Math.sin(ballAngle - 0.01));
+          balls[i].position.setX(radius * Math.cos(ballAngle - 0.01));
+          balls[i].position.setY(radius * Math.sin(ballAngle - 0.01));
 
           balls[i].rotation.set(0, 0, ballAngle - 0.01);
         }
