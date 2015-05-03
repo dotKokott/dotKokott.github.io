@@ -15,5 +15,4 @@ void main(){
   col *= 1.5 * audio.xyz;
 
   gl_FragColor = vec4( col , 1. );
-
 }
