@@ -50,8 +50,8 @@
       var ballUniforms = {
 
         t_audio: { type:"t"  , value: audio.texture },
-        xScale:  { type:"f", value: 2.0},
-        yScale:  { type:"f", value: 0.0},
+        xScale:  { type:"f", value: 0.1},
+        yScale:  { type:"f", value: 0},
         zScale:  { type:"f", value: 0.0}
 
       }
@@ -137,19 +137,15 @@
 
       }
 
-      var angle = 0;
       function animate(){
 
         requestAnimationFrame( animate );
         controls.update();
         audio.update();
 
-        angle += 0.05;
         for(var i = 0; i < balls.length; i++) {
           var pos = balls[i].position;
-          //x = radius * cos(angle);
-          //x / radious = cos(angle);
-          //acos(x / radius) = angle;
+
           var ballAngle = Math.atan2(pos.y, pos.x);
 
           var radius = 2.5 + audio.analyser.array[ i ] / 256;
