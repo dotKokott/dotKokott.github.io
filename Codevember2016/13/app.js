@@ -13,7 +13,7 @@ function draw(dt) {
     for(var y = 0; y < HEIGHT / GRID_Y; y++) {
       var posX = x * GRID_X;
       var posY = y * GRID_Y;
-      
+
       var radius = Math.abs(Math.cos(x - totalSeconds) * 20 * Math.sin(y - totalSeconds));
       var color = HSLA(0, radius * 20);
       //strokeCircle(posX, posY, radius, 2, color);
