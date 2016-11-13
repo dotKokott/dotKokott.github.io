@@ -1,0 +1,46 @@
+<html>
+  <head>
+    <title>Snake of Love</title>
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+
+  <canvas id="c" width="auto" height="auto"></canvas>
+
+  <script src="lib/Vector2.js"></script>
+  <script src="lib/Helper.js"></script>
+  <script src="lib/Drawing.js"></script>
+
+  <script src="app.js"></script>
+
+  <script>
+    var cv = document.getElementById('c');
+    var ctx = cv.getContext('2d');
+
+    var WIDTH = window.innerWidth;
+    var HEIGHT = window.innerHeight;
+
+    cv.width = WIDTH;
+    cv.height = HEIGHT;
+
+    var dt;
+    var totalSeconds;
+
+    (function (window) {
+      var start = new Date();
+      var last = new Date();
+
+      init();
+      function tick() {
+        var now = new Date();
+        dt = (now - last) / 1000;
+        totalSeconds = (now - start) / 1000;
+        last = now;
+
+        draw(dt);
+      }
+
+      window.setInterval(tick, 1000 / 60);
+    } (window));
+  </script>
+
+</html>
