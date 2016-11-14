@@ -8,7 +8,7 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
+title : Christian Kokott
 tagline: Site Tagline
 author :
   name : Christian Kokott
@@ -24,7 +24,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://dotKokott.github.io
+production_url : http://dotkokott.github.io
 
 gems: ["jekyll-sitemap"]
 
@@ -105,7 +105,7 @@ JB :
     gauges :
         site_id : 'SITE ID'
     google : 
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-87332878-1'
     getclicky :
       site_id : 
     mixpanel :
