@@ -45,7 +45,7 @@ author:
   github: dotKokott    # eg. daattali
   twitter: dotKokott   # eg. daattali
   linkedin: christiankokott  # eg. daattali  
-  instagram: yourname # eg. daattali
+  instagram: dotkokott # eg. daattali
 
 # Select which links to show in the footer
 footer-links-active:
@@ -56,7 +56,7 @@ footer-links-active:
   google-plus: false
   github: true
   reddit: false
-  linkedin: false
+  linkedin: true
   xing: false
   stackoverflow: false
   snapchat: false
@@ -80,7 +80,7 @@ url-pretty: "dotkokott.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-87332878-1"
 
 # Facebook App ID
 # fb_app_id: ""
