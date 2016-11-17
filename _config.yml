@@ -25,10 +25,9 @@ description: Creative Coding and Machine Learning
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+    - Machine Learning: "machinelearning"
+    - Creative Coding: "creativecoding"    
+  Author's home: "https://dotkokott.github.io/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -44,7 +43,7 @@ author:
   facebook: christiankokott  # eg. daattali
   github: dotKokott    # eg. daattali
   twitter: dotKokott   # eg. daattali
-  linkedin: christiankokott  # eg. daattali  
+  linkedin: christiankokott  # eg. daattali
   instagram: dotkokott # eg. daattali
 
 # Select which links to show in the footer
