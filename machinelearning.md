@@ -34,6 +34,7 @@ A Modern Approach](http://www.cin.ufpe.br/~tfl2/artificial-intelligence-modern-a
 * [Camron.xyz / TensorFlow in a Nutshell](http://camron.xyz/)
 
   Mini TensorFlow tutorials and more (RNN, Search etc.)
+
 ### Datasets
 * [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.html)
 
