@@ -49,6 +49,10 @@ A Modern Approach](http://www.cin.ufpe.br/~tfl2/artificial-intelligence-modern-a
 
   a dataset consisting of ~9 million URLs to images that have been annotated with labels spanning over 6000 categories.
 
+* [LSUN Dataset](http://www.yf.io/p/lsun)
+
+  Dataset of scene images like Bedrooms, Kitchens, Bridges etc.
+
 ### Papers
 * [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 
@@ -56,6 +60,10 @@ A Modern Approach](http://www.cin.ufpe.br/~tfl2/artificial-intelligence-modern-a
 
 * [ENet: A Deep Neural Network Architecture for
 Real-Time Semantic Segmentation](https://arxiv.org/pdf/1606.02147v1.pdf)
+
+* [Generative Adversarial Networks NIPS, 2014](https://arxiv.org/pdf/1406.2661v1.pdf)
+
+* [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks ICLR, 2016](https://arxiv.org/pdf/1511.06434v2.pdf)
 
 * [Iris.ai](https://iris.ai/)
 
@@ -112,6 +120,10 @@ Real-Time Semantic Segmentation](https://arxiv.org/pdf/1606.02147v1.pdf)
 * [Minecraft, ENHANCE!](https://nucl.ai/blog/enhance-pixel-art/)
 
   Neural Networks to Upscale & Stylize Pixel Art
+
+* [pix2pix](https://phillipi.github.io/pix2pix/)
+
+  Image to Image translation -> Translate BW to Color | Edges to Photo etc.
 
 ### Tools
 * [Wekinator](http://www.wekinator.org/)
