@@ -25,6 +25,10 @@ A Modern Approach](http://www.cin.ufpe.br/~tfl2/artificial-intelligence-modern-a
 
   Neural Networks from scratch in JavaScript
 
+* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+
+  >Jupyter notebook content for my OReilly book, the Python Data Science Handbook
+
 #### Tensorflow
 * [TensorFlow Tutorial and Examples for Beginners](https://github.com/aymericdamien/TensorFlow-Examples)
 * [TensorFlow Tutorial - used by Nvidia](https://github.com/alrojo/tensorflow-tutorial)
@@ -106,6 +110,9 @@ Real-Time Semantic Segmentation](https://arxiv.org/pdf/1606.02147v1.pdf)
 
   Explanation of different NN architectures
 
+* [A Year of AI](https://ayearofai.com/)
+
+  Accessible explanations for various ML topics
 
 ### Inspiration
 * [A.I. Experiments with Google](https://aiexperiments.withgoogle.com/)
