@@ -29,6 +29,8 @@ A Modern Approach](http://www.cin.ufpe.br/~tfl2/artificial-intelligence-modern-a
 
   >Jupyter notebook content for my OReilly book, the Python Data Science Handbook
 
+* [Practical Neural Networks for NLP: From Theory to Code](http://www.emnlp2016.net/tutorials.html#practical)
+
 #### Tensorflow
 * [TensorFlow Tutorial and Examples for Beginners](https://github.com/aymericdamien/TensorFlow-Examples)
 * [TensorFlow Tutorial - used by Nvidia](https://github.com/alrojo/tensorflow-tutorial)
