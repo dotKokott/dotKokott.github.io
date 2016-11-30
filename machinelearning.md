@@ -116,6 +116,8 @@ Real-Time Semantic Segmentation](https://arxiv.org/pdf/1606.02147v1.pdf)
 
   Accessible explanations for various ML topics
 
+* [A gallery of interesting IPython notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
+
 ### Inspiration
 * [A.I. Experiments with Google](https://aiexperiments.withgoogle.com/)
 
