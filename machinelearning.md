@@ -59,6 +59,10 @@ A Modern Approach](http://www.cin.ufpe.br/~tfl2/artificial-intelligence-modern-a
 
   Dataset of scene images like Bedrooms, Kitchens, Bridges etc.
 
+* [MusicNet](http://homes.cs.washington.edu/~thickstn/musicnet.html)
+
+  A curated collection of labeled classical music
+
 ### Papers
 * [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 
