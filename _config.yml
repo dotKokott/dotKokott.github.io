@@ -23,11 +23,11 @@ description: Creative Coding and Machine Learning
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: "pages/aboutme"
   Resources:
-    - Machine Learning: "machinelearning"
-    - Creative Coding: "creativecoding"
-    - What tools?: "pages/tools"
+    - Machine Learning: "pages/resources/machinelearning"
+    - Creative Coding: "pages/resources/creativecoding"
+    - What tools?: "pages/resources/tools"
   Author's home: "https://dotkokott.github.io/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
