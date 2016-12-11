@@ -83,6 +83,7 @@ Real-Time Semantic Segmentation](https://arxiv.org/pdf/1606.02147v1.pdf)
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 * [Phd level ML courses](https://www.reddit.com/r/MachineLearning/comments/51qhc8/phdlevel_courses/)
 * [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info)
+* [Open Source Deep Learning Curriculum](http://www.deeplearningweekly.com/pages/open_source_deep_learning_curriculum)
 
 ### Podcasts
 * [Ethical Machines](http://ethicalmachines.com/)
@@ -147,6 +148,5 @@ Real-Time Semantic Segmentation](https://arxiv.org/pdf/1606.02147v1.pdf)
 * [Leaf](http://autumnai.com/leaf/book/leaf.html)
 
   Simple Machine Learning framework for Hackers
-
 
 * [OpenAI Gym](https://gym.openai.com/)
