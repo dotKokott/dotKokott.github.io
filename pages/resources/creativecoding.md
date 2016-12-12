@@ -8,7 +8,7 @@ Below you can find an ever expanding list of Creative Coding resources and tips 
 
 ### Web Audio
 
-## Books & Resources
+#### Books & Resources
 * [Web Audio API: Advanced Sound for Games and Interactive Apps (Book)](http://chimera.labs.oreilly.com/books/1234000001552/pr01.html)
 
 * [1st Web Audio Conference (Slides)](http://medias.ircam.fr/search/?q=WAC+-+1st+Web+Audio+Conference)
@@ -17,10 +17,10 @@ Below you can find an ever expanding list of Creative Coding resources and tips 
 
   Interactive introduction to digital signal processing
 
-## Tutorials
+#### Tutorials
 * [Web Audio School](http://mmckegg.github.io/web-audio-school/) ([GitHub](https://github.com/mmckegg/web-audio-school))
 
-## Libraries
+#### Libraries
 * [Web Audio Font](https://github.com/surikov/webaudiofont)
 
   >WebAudioFont is a set of resources and associated technology that uses sample-based synthesis to play musical instruments in browser.
@@ -37,7 +37,7 @@ Below you can find an ever expanding list of Creative Coding resources and tips 
 
   JS audio interface API (clickable drumpads, keyboards etc.)
 
-## Inspiration
+#### Inspiration
 * [Web Audio Samples](http://webaudioapi.com/samples/)
 * [Web Audio Weekly](http://www.webaudioweekly.com/)
 * [The Infinite Drum Machine](https://aiexperiments.withgoogle.com/drum-machine)
