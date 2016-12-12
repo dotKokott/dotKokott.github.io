@@ -9,6 +9,9 @@ Below you can find an ever expanding list of Machine Learning resources that I f
 ### Books
 *	[Artificial Intelligence:
 A Modern Approach](http://www.cin.ufpe.br/~tfl2/artificial-intelligence-modern-approach.9780131038059.25368.pdf)
+  
+  [Web version](http://aima.cs.berkeley.edu/)
+  
 * [Deep Learning Book](http://www.deeplearningbook.org/)
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 * [Reading list for Computational Creativity from Kent](http://resourcelists.kent.ac.uk/lists/92F2F66A-9721-631D-9092-842212A433EE.html)
@@ -126,6 +129,12 @@ Real-Time Semantic Segmentation](https://arxiv.org/pdf/1606.02147v1.pdf)
   Accessible explanations for various ML topics
 
 * [A gallery of interesting IPython notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
+
+* [Awesome RNN](https://github.com/kjw0612/awesome-rnn)
+
+  >A curated list of resources dedicated to recurrent neural networks (closely related to deep learning).
+  
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 
 ### Inspiration
 * [A.I. Experiments with Google](https://aiexperiments.withgoogle.com/)
