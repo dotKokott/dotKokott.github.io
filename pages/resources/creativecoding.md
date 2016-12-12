@@ -51,3 +51,7 @@ Below you can find an ever expanding list of Creative Coding resources and tips 
 * [lissajousjs](http://lissajousjs.com/)
 
   Online live coding music environment
+  
+* [Musical Interactions](https://tympanus.net/Development/MusicalInteractions/)
+  
+  Cool online instruments
