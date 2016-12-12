@@ -62,6 +62,10 @@ A Modern Approach](http://www.cin.ufpe.br/~tfl2/artificial-intelligence-modern-a
 * [MusicNet](http://homes.cs.washington.edu/~thickstn/musicnet.html)
 
   A curated collection of labeled classical music
+  
+* [Datasets for ML](https://docs.google.com/spreadsheets/d/1AQvZ7-Kg0lSZtG1wlgbIsrm90HaTZrJGQMz-uKRRlFw)
+  
+  Ever expanding Google Doc for neatly described datasets
 
 ### Papers
 * [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
