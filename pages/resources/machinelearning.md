@@ -143,7 +143,7 @@ Real-Time Semantic Segmentation](https://arxiv.org/pdf/1606.02147v1.pdf)
 
 * [pix2pix](https://phillipi.github.io/pix2pix/)
 
-  Image to Image translation -> Translate BW to Color | Edges to Photo etc.
+  Image to Image translation -> Translate BW to Color, Edges to Photo etc.
 
 ### Tools
 * [Wekinator](http://www.wekinator.org/)
