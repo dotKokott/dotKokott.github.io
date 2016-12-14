@@ -16,6 +16,7 @@ A Modern Approach](http://www.cin.ufpe.br/~tfl2/artificial-intelligence-modern-a
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 * [Reading list for Computational Creativity from Kent](http://resourcelists.kent.ac.uk/lists/92F2F66A-9721-631D-9092-842212A433EE.html)
 * [Machine Learning for Artists](http://ml4a.github.io/index/)
+* [The AI Programmers Bookshelf](http://alumni.media.mit.edu/~jorkin/aibooks.html)
 
 ### Tutorials
 
