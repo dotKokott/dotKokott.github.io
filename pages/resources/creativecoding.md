@@ -15,7 +15,7 @@ Below you can find an ever expanding list of Creative Coding resources and tips 
 
 * [Circles, Signs and Signals](https://jackschaedler.github.io/circles-sines-signals/)
 
-  Interactive introduction to digital signal processing
+  Interactive introduction to digital signal processing 
 
 #### Tutorials
 * [Web Audio School](http://mmckegg.github.io/web-audio-school/) ([GitHub](https://github.com/mmckegg/web-audio-school))
@@ -55,3 +55,7 @@ Below you can find an ever expanding list of Creative Coding resources and tips 
 * [Musical Interactions](https://tympanus.net/Development/MusicalInteractions/)
   
   Cool online instruments
+
+* [Programming Music: The Applications of Algorithmic Composition](https://getinspired.mit.edu/sites/default/files/documents/MU208_Report.pdf)
+
+  Grammar based Hip-Hop beats
