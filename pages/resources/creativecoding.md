@@ -59,3 +59,7 @@ Below you can find an ever expanding list of Creative Coding resources and tips 
 * [Programming Music: The Applications of Algorithmic Composition](https://getinspired.mit.edu/sites/default/files/documents/MU208_Report.pdf)
 
   Grammar based Hip-Hop beats
+
+* [Extempore](http://extempore.moso.com.au/)
+  
+  Live coding environment for music
