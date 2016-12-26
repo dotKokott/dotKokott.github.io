@@ -6,6 +6,13 @@ subtitle: Online resources / shaders / videos etc.
 
 Below you can find an ever expanding list of Creative Coding resources and tips that I find along the way.
 
+### Generative (Design)
+
+#### Books & Resources
+* [Generative Gestaltung](http://www.generative-gestaltung.de/code)
+
+  Free book about generative design + processing code
+
 ### Web Audio
 
 #### Books & Resources
