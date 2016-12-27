@@ -12,6 +12,9 @@ Below you can find an ever expanding list of Creative Coding resources and tips 
 * [Generative Gestaltung](http://www.generative-gestaltung.de/code)
 
   Free book about generative design + processing code
+  
+#### Inspiration
+* [Zach Lieberman: Daily Sketches in 2016](https://medium.com/@zachlieberman/daily-sketches-2016-28586d8f008e#.gogsv0hg6)
 
 ### Web Audio
 
