@@ -8,6 +8,10 @@ Below you can find an ever expanding list of Creative Coding resources and tips 
 
 ### Generative (Design)
 
+#### Tutorials / Techniques
+
+* [Flow technique deconstruction](https://martijnbrekelmans.com/generative-art/heart-deconstruction/techniques.html)
+
 #### Books & Resources
 * [Generative Gestaltung](http://www.generative-gestaltung.de/code)
 
