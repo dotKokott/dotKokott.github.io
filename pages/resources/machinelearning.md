@@ -17,6 +17,9 @@ A Modern Approach](http://www.cin.ufpe.br/~tfl2/artificial-intelligence-modern-a
 * [Reading list for Computational Creativity from Kent](http://resourcelists.kent.ac.uk/lists/92F2F66A-9721-631D-9092-842212A433EE.html)
 * [Machine Learning for Artists](http://ml4a.github.io/index/)
 * [The AI Programmers Bookshelf](http://alumni.media.mit.edu/~jorkin/aibooks.html)
+* [Rules of Machine Learning: Best Practices](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
+
+  Best practices for using ML systems in practice, a style guide for ML
 
 ### Tutorials
 
