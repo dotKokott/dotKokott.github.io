@@ -11,6 +11,8 @@ Below you can find an ever expanding list of Creative Coding resources and tips 
 #### Tutorials / Techniques
 
 * [Flow technique deconstruction](https://martijnbrekelmans.com/generative-art/heart-deconstruction/techniques.html)
+* [Unity procedural flower](https://github.com/mattatz/unity-procedural-flower)
+* [My text your handwriting ML](http://www.creativeai.net/posts/iTtqCQneEm7DNzSow/my-text-in-your-handwriting-generating-handwriting)
 
 #### Books & Resources
 * [Generative Gestaltung](http://www.generative-gestaltung.de/code)
@@ -48,6 +50,10 @@ Below you can find an ever expanding list of Creative Coding resources and tips 
 * [Tuna.js](https://github.com/Theodeus/tuna)
 
   >A audio effects library for the Web Audio API
+  
+* [clubber](https://github.com/wizgrav/clubber)
+
+  >A javascript library that analyzes the frequency data from an audio source and extracts the underlying rhythmic information. 
 
 * [NexusUI](http://nexusosc.com/)
 
