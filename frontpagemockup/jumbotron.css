@@ -17,6 +17,10 @@ nav > a {
     height: 6px;
 }
 
+.nav-item {
+    padding-top: 5px;
+}
+
 .nav-item:hover > .highlight {
     background-color: #BF343F;
     transition: background-color 500ms linear;
