@@ -59,7 +59,7 @@ nav > a {
 
 .course_1 {
     transform: rotate(-3deg) translate(15px, 20px);
-
+    border: 1px solid #BF343F;
     background-color: #BF343F;
 }
 
@@ -69,6 +69,7 @@ nav > a {
 
 .course_3 {
     transform: rotate(3deg) translate(-15px, 20px);
+    border: 1px solid #0378A6;
     background-color: #0378A6;
 }
 
