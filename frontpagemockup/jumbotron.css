@@ -82,9 +82,8 @@ nav > a {
     /*color: #666;*/
 }
 
-.course_image {
-    width: 200px;
-    border-radius: .5rem;
+.course_image {    
+    width: 320px;
     margin: 0 auto;
     display: block;
     padding-bottom: 10px;
