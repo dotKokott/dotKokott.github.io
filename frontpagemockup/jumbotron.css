@@ -1,0 +1,141 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+    padding-bottom: 50px;
+}
+
+
+nav {
+    background-color: white;
+}
+
+nav > a {
+    color: black;
+}
+
+.highlight {
+    background-color: transparent;
+    height: 6px;
+}
+
+.nav-item:hover > .highlight {
+    background-color: #BF343F;
+    transition: background-color 500ms linear;
+}
+
+.navbar {
+    top: 3%;
+    margin: auto;
+    width: 80%;
+    border-radius: .5rem;
+}
+
+.nav-link {
+    color: black;
+    padding-right: 1rem !important;
+    padding-left: 1rem !important;
+}
+
+.frontimage {
+    background-image: url('schoolofmabackground.jpg');
+    background-size: cover;
+    height: 700px;
+    border-radius: 0;
+}
+
+
+.col-md-4 {
+    transform: scale(0.98);
+    transition: 200ms all ease-in-out;
+    padding: 20px;
+    border-radius: .5rem;
+    box-shadow: 0px 0px 10px #000;
+}
+
+.col-md-4:hover {
+    transform: scale(1.07);
+    z-index: 2;
+    transition: 200ms all ease-in-out;
+}
+
+.course_1 {
+    transform: rotate(-3deg) translate(15px, 20px);
+
+    background-color: #BF343F;
+}
+
+.course_2 {
+    background-color: #D9984A;
+}
+
+.course_3 {
+    transform: rotate(3deg) translate(-15px, 20px);
+    background-color: #0378A6;
+}
+
+.enroll_date {
+    font-size: 16px;
+    /*color: #666;*/
+}
+
+.course_image {
+    width: 200px;
+    border-radius: .5rem;
+    margin: 0 auto;
+    display: block;
+    padding-bottom: 10px;
+}
+
+/* SCHOOL OF MA ORG LEGACY */
+
+html,
+body {
+  /*font-family: Lato, PT Sans, Calibri, 'Merriweather', 'Lato', sans-serif;
+  /*font-weight: 400;
+  font-size: 100%;*/
+}
+
+html {
+
+  /*-webkit-overflow-scrolling: touch;
+  -webkit-tap-highlight-color: lighten($base-color, 75%);
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  background-color: transparent;*/
+  /* Technique: http://css-tricks.com/perfect-full-page-background-image/ */
+  /*background-image: url(../i/bg.jpg);
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+  //-webkit-background-size: cover;
+  //-moz-background-size: cover;
+  //-o-background-size: cover;
+  //background-size: cover;
+  -webkit-background-size: 1534px 1024px; // fix not correct scaling in safari on ipad
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='.myBackground.jpg', sizingMethod='scale');
+  -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='myBackground.jpg', sizingMethod='scale')";
+  */
+}
+
+.thanks {
+    margin: 2em 0;
+    text-align: center;
+    padding-top: 2em;
+    position: relative;
+}
+
+.thanks:after {
+    content: '';
+    display: block;
+    width: 21px;
+    height: 1.062em;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    margin-left: -10px;
+    background: -100px 0 url(icons.png) no-repeat;
+}
+
+.em {
+    font-family: Calibri, 'Merriweather', 'Cousine', 'Open Sans', sans-serif;
+}
