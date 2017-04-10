@@ -14,6 +14,7 @@ Below you can find an ever expanding list of Creative Coding resources and tips 
 * [Unity procedural flower](https://github.com/mattatz/unity-procedural-flower)
 * [My text your handwriting ML](http://www.creativeai.net/posts/iTtqCQneEm7DNzSow/my-text-in-your-handwriting-generating-handwriting)
 * [Node based differential growth tutorial](https://medium.com/@danefilipczak/node-based-differential-growth-tutorial-d5287d7c3c86#.u3xdnphs8)
+* [Fractal flame algorithm (How to draw smooth beautiful fractals / chaos systems)](http://flam3.com/flame_draves.pdf)
 
 #### Books & Resources
 * [Generative Gestaltung](http://www.generative-gestaltung.de/code)
