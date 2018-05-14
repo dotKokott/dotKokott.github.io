@@ -1,0 +1,13 @@
+{
+"companyName": "Darling Kokott",
+"productName": "Bardo",
+"dataUrl": "BardoRelease.data.unityweb",
+"asmCodeUrl": "BardoRelease.asm.code.unityweb",
+"asmMemoryUrl": "BardoRelease.asm.memory.unityweb",
+"asmFrameworkUrl": "BardoRelease.asm.framework.unityweb",
+"TOTAL_MEMORY": 419430400,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
