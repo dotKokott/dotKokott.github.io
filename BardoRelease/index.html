@@ -4,17 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>Unity WebGL Player | Bardo</title>
-    <script>      
-       window.oldGetComputedStyle = window .getComputedStyle;
-       window.getComputedStyle = function (element, pseudoElt) {
-          var t = window.oldGetComputedStyle(element, pseudoElt);
-          if (t === null) {
-             return {};
-          } else{
-             return t;
-          }
-       };
-    </script>
+
     <script src="Build/UnityLoader.js"></script>
     <script>
       var gameInstance = UnityLoader.instantiate("gameContainer", "Build/BardoRelease.json");
