@@ -6,6 +6,15 @@
     <title>Unity WebGL Player | Bardo</title>
     <script src="Build/UnityLoader.js"></script>
     <script>
+       window.oldGetComputedStyle = window .getComputedStyle;
+       window.getComputedStyle = function (element, pseudoElt) {
+          var t = window.oldGetComputedStyle(element, pseudoElt);
+          if (t === null) {
+             return {};
+          } else{
+             return t;
+          }
+       };
       var gameInstance = UnityLoader.instantiate("gameContainer", "Build/BardoRelease.json");
     </script>
 
